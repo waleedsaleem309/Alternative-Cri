@@ -1,0 +1,84 @@
+[{ 
+"events": [   {
+    "Name": "PTV Sports",
+    "Url": "https://bighra.tk/Channels.json",
+    "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "startDate": "2022-2-2",
+    "startTime": "00:00",
+    "EventName": "PTV Sports",
+    "endDate": "2025-12-28",
+    "endTime": "00:00"
+      },
+{
+    "Name": "IND vs SL",
+    "Url": "https://bighra.tk/Events/ind-sl.json",
+    "ImageUrl": "https://assets.crik.live/Events/ind-sl.jpg",
+    "startDate": "2022-2-24",
+    "startTime": "12:00",
+    "EventName": "IND vs SL",
+    "endDate": "2022-2-25",
+    "endTime": "12:00"
+    },
+    {
+    "Name": "IND vs SL",
+    "Url": "https://bighra.tk/Events/ind-sl.json",
+    "ImageUrl": "https://assets.crik.live/Events/ind-sl.jpg",
+    "startDate": "2022-2-26",
+    "startTime": "12:00",
+    "EventName": "IND vs SL",
+    "endDate": "2022-2-27",
+    "endTime": "12:00"
+    },
+      {
+    "Name": "IND vs SL",
+    "Url": "https://bighra.tk/Events/ind-sl.json",
+    "ImageUrl": "https://assets.crik.live/Events/ind-sl.jpg",
+    "startDate": "2022-2-27",
+    "startTime": "12:00",
+    "EventName": "IND vs SL",
+    "endDate": "2022-2-28",
+    "endTime": "12:00"
+    },
+   {
+    "Name": "Star Sports",
+    "Url": "https://bighra.tk/Channels.json",
+    "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "Star Sports",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+    },
+    {
+    "Name": "Star Sports Hindi",
+    "Url": "https://bighra.tk/Channels.json",
+    "ImageUrl": "https://assets.crik.live/Channels/star-hindi.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "Star Sports Hindi",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+    },  
+      {
+    "Name": "India U19 vs Uganda U19",
+    "Url": "https://bighra.tk/Events/u19.json",
+    "ImageUrl": "https://assets.crik.live/Events/u19/23.jpg",
+    "startDate": "2022-1-22",
+    "startTime": "00:00",
+    "EventName": "U19",
+    "endDate": "2022-1-23",
+    "endTime": "00:00"
+      },
+      {
+    "Name": "Pakistan U19 vs Zimbabwe U19",
+    "Url": "https://bighra.tk/Events/u19.json",
+    "ImageUrl": "https://assets.crik.live/Events/u19/24.jpg",
+    "startDate": "2022-1-22",
+    "startTime": "00:00",
+    "EventName": "U19",
+    "endDate": "2022-1-23",
+    "endTime": "00:00"
+      }
+    ],
+    "title": "Star Sports"
+    }]
