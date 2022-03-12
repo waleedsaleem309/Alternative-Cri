@@ -1,0 +1,23 @@
+{
+
+"Star": [
+   {
+    "EventImage" : "https://assets.crik.live/Events/psl.jpg",
+    "EventName" : "PSL 7",
+    "Url" : "https://bighra.tk/Events/psl.json"
+  },
+  {
+    "EventImage" : "file:///android_asset/cricket.png",
+    "EventName" : "Star Sports",
+    "Url" : "https://bighra.tk/Channels.json"
+  },
+  {
+    "EventImage" : "file:///android_asset/cricket.png",
+    "EventName" : "Star Sports Hindi",
+    "Url" : "https://bighra.tk/Channels.json"
+  }
+  
+]
+
+ 
+}
