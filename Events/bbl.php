@@ -3,7 +3,7 @@ $BBL = ' {
     "events": [
           {
         "Name": "BBL Live",
-        "Url": "https://bighra.tk/Events/bbl.json",
+        "Url": "https://bighra.crik.live/Events/bbl.json",
          "ImageUrl": "https://assets.crik.live/Events/bbl/56th.jpg",
     "startDate": "2022-1-19",
      "startTime": "00:00",

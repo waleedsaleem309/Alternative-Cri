@@ -3,7 +3,7 @@ $IND = '{
 "events": [ 
   {
     "Name": "IND vs SL",
-    "Url": "https://bighra.tk/Events/ind-sl.json",
+    "Url": "https://bighra.crik.live/Events/ind-sl.json",
     "ImageUrl": "https://assets.crik.live/Events/ind-sl.jpg",
     "startDate": "2022-3-4",
     "startTime": "12:00",
@@ -13,7 +13,7 @@ $IND = '{
     },
     {
     "Name": "IND vs SL",
-    "Url": "https://bighra.tk/Events/ind-sl.json",
+    "Url": "https://bighra.crik.live/Events/ind-sl.json",
     "ImageUrl": "https://assets.crik.live/Events/ind-sl.jpg",
     "startDate": "2022-3-12",
     "startTime": "12:00",

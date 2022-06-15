@@ -3,7 +3,7 @@ $U19 = '{
     "events": [
       {
     "Name": "Pakistan U19 vs Zimbabwe U19",
-    "Url": "https://bighra.tk/Events/u19.json",
+    "Url": "https://bighra.crik.live/Events/u19.json",
     "ImageUrl": "https://assets.crik.live/Events/u19/24.jpg",
     "startDate": "2022-1-22",
     "startTime": "00:00",
@@ -13,7 +13,7 @@ $U19 = '{
       },
       {
     "Name": "U19 World Cup",
-    "Url": "https://bighra.tk/Events/u19.json",
+    "Url": "https://bighra.crik.live/Events/u19.json",
     "ImageUrl": "https://assets.crik.live/Events/u19.jpg",
     "startDate": "2022-1-22",
     "startTime": "00:00",

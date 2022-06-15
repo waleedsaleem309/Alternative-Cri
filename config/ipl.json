@@ -1,5 +1,7 @@
-{"LV" : "11",
-"APK" : "http://apps.crik.live/psl.apk", 
+{"LV" : "12",
+"APK" : "https://apps.crik.live/ipl.apk", 
 "Store" : "https://yahoo.com",
-"Ads" : "false",
+"Ads" : "true",
+"ADS-12" : "true",
+"ADS-13" : "true",
 "Cancelable" : "true"}

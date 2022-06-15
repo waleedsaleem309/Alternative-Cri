@@ -1,7 +1,7 @@
 <?php
 $PSL = '  {
     "Name": "PTV Sports",
-    "Url": "https://bighra.tk/Channels.json",
+    "Url": "https://bighra.crik.live/Channels.json",
     "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",
     "startDate": "2022-2-2",
     "startTime": "00:00",

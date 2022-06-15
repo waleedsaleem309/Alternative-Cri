@@ -2,12 +2,11 @@
 $json = 'a-sports.json';
 include 'psl.php';
 include 'pak.php';
-include 't20-wo.php';
 $A = '{ 
 "events": [ 
 {
     "Name": "A Sports",
-    "Url": "https://bighra.tk/Channels/a-sports.json",
+    "Url": "https://bighra.crik.live/Channels/a-sports.json",
     "ImageUrl": "https://assets.crik.live/Channels/a-sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -19,10 +18,10 @@ $A = '{
     "title": "A Sports"
     }';
     $A1 = '{ 
-"events": [ ' . $PAK  . ',' . $T20_Wo .
+"events": [ ' . $PAK   .
 ',{
     "Name": "A Sports",
-    "Url": "https://bighra.tk/Channels/a-sports.json",
+    "Url": "https://bighra.crik.live/Channels/a-sports.json",
     "ImageUrl": "https://assets.crik.live/Channels/a-sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",

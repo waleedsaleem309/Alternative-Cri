@@ -3,13 +3,12 @@ include 'bbl.php';
 include 'u19.php';
 include 'psl.php';
 include 'pak.php';
-include 't20-wo.php';
 $json = 'ptv.json';
 $PTV = '{ 
 "events": [ 
 {
     "Name": "PTV Sports",
-    "Url": "https://bighra.tk/Channels.json",
+    "Url": "https://bighra.crik.live/Channels.json",
     "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -22,10 +21,10 @@ $PTV = '{
     }';
     $PTV1 = '{ 
 "events": [ 
-' . $PAK . ',' . $T20_Wo . ' 
+' . $PAK .  ' 
 ,{
     "Name": "PTV Sports",
-    "Url": "https://bighra.tk/Channels.json",
+    "Url": "https://bighra.crik.live/Channels.json",
     "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",

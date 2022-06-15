@@ -5,7 +5,7 @@ $Kass = '{
 "events": [ 
 {
     "Name": "AlKass 1",
-    "Url": "https://bighra.tk/Channels/al-kass.json",
+    "Url": "https://bighra.crik.live/Channels/al-kass.json",
     "ImageUrl": "https://assets.crik.live/Channels/kass-1.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -15,7 +15,7 @@ $Kass = '{
     },
     {
     "Name": "AlKass 2",
-    "Url": "https://bighra.tk/Channels/al-kass.json",
+    "Url": "https://bighra.crik.live/Channels/al-kass.json",
     "ImageUrl": "https://assets.crik.live/Channels/kass-2.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -25,7 +25,7 @@ $Kass = '{
     },
     {
     "Name": "AlKass 3",
-    "Url": "https://bighra.tk/Channels/al-kass.json",
+    "Url": "https://bighra.crik.live/Channels/al-kass.json",
     "ImageUrl": "https://assets.crik.live/Channels/kass-3.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -35,7 +35,7 @@ $Kass = '{
     },
     {
     "Name": "AlKass 4",
-    "Url": "https://bighra.tk/Channels/al-kass.json",
+    "Url": "https://bighra.crik.live/Channels/al-kass.json",
     "ImageUrl": "https://assets.crik.live/Channels/kass-4.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -45,7 +45,7 @@ $Kass = '{
     },
     {
     "Name": "AlKass 5",
-    "Url": "https://bighra.tk/Channels/al-kass.json",
+    "Url": "https://bighra.crik.live/Channels/al-kass.json",
     "ImageUrl": "https://assets.crik.live/Channels/kass-5.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -60,7 +60,7 @@ $Kass = '{
 "events": [ 
 {
     "Name": "AlKass 1",
-    "Url": "https://bighra.tk/Channels/al-kass.json",
+    "Url": "https://bighra.crik.live/Channels/al-kass.json",
     "ImageUrl": "https://assets.crik.live/Channels/kass-1.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -70,7 +70,7 @@ $Kass = '{
     },
     {
     "Name": "AlKass 2",
-    "Url": "https://bighra.tk/Channels/al-kass.json",
+    "Url": "https://bighra.crik.live/Channels/al-kass.json",
     "ImageUrl": "https://assets.crik.live/Channels/kass-2.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -80,7 +80,7 @@ $Kass = '{
     },
     {
     "Name": "AlKass 3",
-    "Url": "https://bighra.tk/Channels/al-kass.json",
+    "Url": "https://bighra.crik.live/Channels/al-kass.json",
     "ImageUrl": "https://assets.crik.live/Channels/kass-3.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -90,7 +90,7 @@ $Kass = '{
     },
     {
     "Name": "AlKass 4",
-    "Url": "https://bighra.tk/Channels/al-kass.json",
+    "Url": "https://bighra.crik.live/Channels/al-kass.json",
     "ImageUrl": "https://assets.crik.live/Channels/kass-4.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -100,7 +100,7 @@ $Kass = '{
     },
     {
     "Name": "AlKass 5",
-    "Url": "https://bighra.tk/Channels/al-kass.json",
+    "Url": "https://bighra.crik.live/Channels/al-kass.json",
     "ImageUrl": "https://assets.crik.live/Channels/kass-5.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",

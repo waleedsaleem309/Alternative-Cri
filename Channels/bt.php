@@ -4,7 +4,7 @@ $BT_Sports = '{
 "events": [ 
 {
     "Name": "BT Sports 1",
-    "Url": "https://bighra.tk/Channels/bt-sports.json",
+    "Url": "https://bighra.crik.live/Channels/bt-sports.json",
     "ImageUrl": "https://assets.crik.live/Channels/bt-1.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -14,7 +14,7 @@ $BT_Sports = '{
     },
     {
     "Name": "BT Sports 2",
-    "Url": "https://bighra.tk/Channels/bt-sports.json",
+    "Url": "https://bighra.crik.live/Channels/bt-sports.json",
     "ImageUrl": "https://assets.crik.live/Channels/bt-2.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -24,7 +24,7 @@ $BT_Sports = '{
     },
     {
     "Name": "BT Sports 3",
-    "Url": "https://bighra.tk/Channels/bt-sports.json",
+    "Url": "https://bighra.crik.live/Channels/bt-sports.json",
     "ImageUrl": "https://assets.crik.live/Channels/bt-3.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -39,7 +39,7 @@ $BT_Sports = '{
 "events": [ 
 {
     "Name": "BT Sports 1",
-    "Url": "https://bighra.tk/Channels/bt-sports.json",
+    "Url": "https://bighra.crik.live/Channels/bt-sports.json",
     "ImageUrl": "https://assets.crik.live/Channels/bt-1.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -49,7 +49,7 @@ $BT_Sports = '{
     },
     {
     "Name": "BT Sports 2",
-    "Url": "https://bighra.tk/Channels/bt-sports.json",
+    "Url": "https://bighra.crik.live/Channels/bt-sports.json",
     "ImageUrl": "https://assets.crik.live/Channels/bt-2.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -59,7 +59,7 @@ $BT_Sports = '{
     },
     {
     "Name": "BT Sports 3",
-    "Url": "https://bighra.tk/Channels/bt-sports.json",
+    "Url": "https://bighra.crik.live/Channels/bt-sports.json",
     "ImageUrl": "https://assets.crik.live/Channels/bt-3.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",

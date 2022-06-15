@@ -2,7 +2,7 @@
     "events": [
    {
     "Name": "PTV Sports",
-    "Url": "https://bighra.tk/Channels.json",
+    "Url": "https://bighra.crik.live/Channels.json",
     "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",
     "startDate": "2022-2-2",
     "startTime": "00:00",
@@ -15,246 +15,37 @@
   },{ 
 "events": [ 
    {
-    "Name": "PAK vs AUS 1st Test",
-    "Url": "https://bighra.tk/Events/pak-aus.json",
+    "Name": "PAK vs AUS 1st ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
     "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
-    "startDate": "2022-3-4",
+    "startDate": "2022-3-29",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
-    "endDate": "2022-3-8",
+    "endDate": "2022-3-30",
     "endTime": "00:00"
       },
        {
-    "Name": "PAK vs AUS 2nd Test",
-    "Url": "https://bighra.tk/Events/pak-aus.json",
+    "Name": "PAK vs AUS 2nd ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
     "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
-    "startDate": "2022-3-12",
+    "startDate": "2022-3-31",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
-    "endDate": "2022-3-16",
+    "endDate": "2022-4-01",
     "endTime": "00:00"
       },
        {
-    "Name": "PAK vs AUS 3rd Test",
-    "Url": "https://bighra.tk/Events/pak-aus.json",
+    "Name": "PAK vs AUS 3rd ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
     "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
-    "startDate": "2022-3-21",
+    "startDate": "2022-4-2",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
-    "endDate": "2022-3-25",
-    "endTime": "00:00"
-      },      {
-        "Name": "New Zealand Women vs India Women",
-        "Url": "https://bighra.tk/Events/t20-wo.json",
-         "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-10",
-     "startTime": "00:00",
-    "endDate": "2022-3-11",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "Pakistan Women vs South Africa Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-11",
-    "startTime": "00:00",
-    "endDate": "2022-3-12",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "West Indies Women vs India Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-12",
-    "startTime": "00:00",
-    "endDate": "2022-3-13",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "New Zealand Women vs Australia Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-13",
-    "startTime": "00:00",
-    "endDate": "2022-3-14",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "Pakistan Women vs Bangladesh Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-14",
-    "startTime": "00:00",
-    "endDate": "2022-3-15",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "South Africa Women vs England Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-14",
-    "startTime": "00:00",
-    "endDate": "2022-3-15",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "Australia Women vs West Indies Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-15",
-    "startTime": "00:00",
-    "endDate": "2022-3-16",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "England Women vs India Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-16",
-    "startTime": "00:00",
-    "endDate": "2022-3-17",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "New Zealand Women vs South Africa Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-17",
-    "startTime": "00:00",
-    "endDate": "2022-3-18",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "Bangladesh Women vs West Indies Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-18",
-    "startTime": "00:00",
-    "endDate": "2022-3-19",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "India Women vs Australia Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-19",
-    "startTime": "00:00",
-    "endDate": "2022-3-20",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "New Zealand Women vs England Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-20",
-    "startTime": "00:00",
-    "endDate": "2022-3-21",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "West Indies Women vs Pakistan Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-21",
-    "startTime": "00:00",
-    "endDate": "2022-3-22",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "South Africa Women vs Australia Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-22",
-    "startTime": "00:00",
-    "endDate": "2022-3-23",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "India Women vs Bangladesh Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-22",
-    "startTime": "00:00",
-    "endDate": "2022-3-23",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "South Africa Women vs West Indies Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-24",
-    "startTime": "00:00",
-    "endDate": "2022-3-25",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "England Women vs Pakistan Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-24",
-    "startTime": "00:00",
-    "endDate": "2022-3-25",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "Bangladesh Women vs Australia Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-25",
-    "startTime": "00:00",
-    "endDate": "2022-3-26",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "New Zealand Women vs Pakistan Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-26",
-    "startTime": "00:00",
-    "endDate": "2022-3-27",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "England Women vs Bangladesh Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-27",
-    "startTime": "00:00",
-    "endDate": "2022-3-28",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "India Women vs South Africa Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-27",
-    "startTime": "00:00",
-    "endDate": "2022-3-28",
-    "EventName": "T20 Women",
+    "endDate": "2022-4-2",
     "endTime": "00:00"
       },{
     "Name": "A Sports",
-    "Url": "https://bighra.tk/Channels/a-sports.json",
+    "Url": "https://bighra.crik.live/Channels/a-sports.json",
     "ImageUrl": "https://assets.crik.live/Channels/a-sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -268,247 +59,38 @@
 "events": [ 
 
    {
-    "Name": "PAK vs AUS 1st Test",
-    "Url": "https://bighra.tk/Events/pak-aus.json",
+    "Name": "PAK vs AUS 1st ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
     "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
-    "startDate": "2022-3-4",
+    "startDate": "2022-3-29",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
-    "endDate": "2022-3-8",
+    "endDate": "2022-3-30",
     "endTime": "00:00"
       },
        {
-    "Name": "PAK vs AUS 2nd Test",
-    "Url": "https://bighra.tk/Events/pak-aus.json",
+    "Name": "PAK vs AUS 2nd ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
     "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
-    "startDate": "2022-3-12",
+    "startDate": "2022-3-31",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
-    "endDate": "2022-3-16",
+    "endDate": "2022-4-01",
     "endTime": "00:00"
       },
        {
-    "Name": "PAK vs AUS 3rd Test",
-    "Url": "https://bighra.tk/Events/pak-aus.json",
+    "Name": "PAK vs AUS 3rd ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
     "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
-    "startDate": "2022-3-21",
+    "startDate": "2022-4-2",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
-    "endDate": "2022-3-25",
-    "endTime": "00:00"
-      },      {
-        "Name": "New Zealand Women vs India Women",
-        "Url": "https://bighra.tk/Events/t20-wo.json",
-         "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-10",
-     "startTime": "00:00",
-    "endDate": "2022-3-11",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "Pakistan Women vs South Africa Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-11",
-    "startTime": "00:00",
-    "endDate": "2022-3-12",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "West Indies Women vs India Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-12",
-    "startTime": "00:00",
-    "endDate": "2022-3-13",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "New Zealand Women vs Australia Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-13",
-    "startTime": "00:00",
-    "endDate": "2022-3-14",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "Pakistan Women vs Bangladesh Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-14",
-    "startTime": "00:00",
-    "endDate": "2022-3-15",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "South Africa Women vs England Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-14",
-    "startTime": "00:00",
-    "endDate": "2022-3-15",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "Australia Women vs West Indies Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-15",
-    "startTime": "00:00",
-    "endDate": "2022-3-16",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "England Women vs India Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-16",
-    "startTime": "00:00",
-    "endDate": "2022-3-17",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "New Zealand Women vs South Africa Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-17",
-    "startTime": "00:00",
-    "endDate": "2022-3-18",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "Bangladesh Women vs West Indies Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-18",
-    "startTime": "00:00",
-    "endDate": "2022-3-19",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "India Women vs Australia Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-19",
-    "startTime": "00:00",
-    "endDate": "2022-3-20",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "New Zealand Women vs England Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-20",
-    "startTime": "00:00",
-    "endDate": "2022-3-21",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "West Indies Women vs Pakistan Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-21",
-    "startTime": "00:00",
-    "endDate": "2022-3-22",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "South Africa Women vs Australia Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-22",
-    "startTime": "00:00",
-    "endDate": "2022-3-23",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "India Women vs Bangladesh Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-22",
-    "startTime": "00:00",
-    "endDate": "2022-3-23",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "South Africa Women vs West Indies Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-24",
-    "startTime": "00:00",
-    "endDate": "2022-3-25",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "England Women vs Pakistan Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-24",
-    "startTime": "00:00",
-    "endDate": "2022-3-25",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "Bangladesh Women vs Australia Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-25",
-    "startTime": "00:00",
-    "endDate": "2022-3-26",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "New Zealand Women vs Pakistan Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-26",
-    "startTime": "00:00",
-    "endDate": "2022-3-27",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "England Women vs Bangladesh Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-27",
-    "startTime": "00:00",
-    "endDate": "2022-3-28",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "India Women vs South Africa Women",
-    "Url": "https://bighra.tk/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-27",
-    "startTime": "00:00",
-    "endDate": "2022-3-28",
-    "EventName": "T20 Women",
+    "endDate": "2022-4-2",
     "endTime": "00:00"
       } 
 ,{
     "Name": "PTV Sports",
-    "Url": "https://bighra.tk/Channels.json",
+    "Url": "https://bighra.crik.live/Channels.json",
     "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -521,37 +103,37 @@
     },{ 
 "events": [ 
    {
-    "Name": "PAK vs AUS 1st Test",
-    "Url": "https://bighra.tk/Events/pak-aus.json",
+    "Name": "PAK vs AUS 1st ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
     "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
-    "startDate": "2022-3-4",
+    "startDate": "2022-3-29",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
-    "endDate": "2022-3-8",
+    "endDate": "2022-3-30",
     "endTime": "00:00"
       },
        {
-    "Name": "PAK vs AUS 2nd Test",
-    "Url": "https://bighra.tk/Events/pak-aus.json",
+    "Name": "PAK vs AUS 2nd ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
     "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
-    "startDate": "2022-3-12",
+    "startDate": "2022-3-31",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
-    "endDate": "2022-3-16",
+    "endDate": "2022-4-01",
     "endTime": "00:00"
       },
        {
-    "Name": "PAK vs AUS 3rd Test",
-    "Url": "https://bighra.tk/Events/pak-aus.json",
+    "Name": "PAK vs AUS 3rd ODI",
+    "Url": "https://bighra.crik.live/Events/pak-aus.json",
     "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
-    "startDate": "2022-3-21",
+    "startDate": "2022-4-2",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
-    "endDate": "2022-3-25",
+    "endDate": "2022-4-2",
     "endTime": "00:00"
       },{
     "Name": "Ten Sports",
-    "Url": "https://bighra.tk/Channels.json",
+    "Url": "https://bighra.crik.live/Channels.json",
     "ImageUrl": "https://assets.crik.live/Channels/Ten-Sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -562,49 +144,50 @@
     ],
     "title": "Ten Sports"
     },{ 
-"events": [   {
-    "Name": "PTV Sports",
-    "Url": "https://bighra.tk/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",
-    "startDate": "2022-2-2",
-    "startTime": "00:00",
-    "EventName": "PTV Sports",
-    "endDate": "2025-12-28",
-    "endTime": "00:00"
-      },
-{
-    "Name": "IND vs SL",
-    "Url": "https://bighra.tk/Events/ind-sl.json",
-    "ImageUrl": "https://assets.crik.live/Events/ind-sl.jpg",
-    "startDate": "2022-2-24",
+"events": [ 
+       {
+    "Name": "RR vs RCB",
+    "Url": "https://bighra.crik.live/Events/ipl.json",
+    "ImageUrl": "https://assets.crik.live/Events/ipl/73.jpg",
+    "startDate": "2022-5-27",
     "startTime": "12:00",
-    "EventName": "IND vs SL",
-    "endDate": "2022-2-25",
+    "EventName": "IPL",
+    "endDate": "2022-5-28",
     "endTime": "12:00"
     },
-    {
-    "Name": "IND vs SL",
-    "Url": "https://bighra.tk/Events/ind-sl.json",
-    "ImageUrl": "https://assets.crik.live/Events/ind-sl.jpg",
-    "startDate": "2022-2-26",
+         {
+    "Name": "RR vs RCB",
+    "Url": "https://bighra.crik.live/Events/ipl.json",
+    "ImageUrl": "https://assets.crik.live/Events/ipl/73.jpg",
+    "startDate": "2022-05-27",
+    "startTime": "00:01",
+    "EventName": "IPL",
+    "endDate": "2022-05-28",
+    "endTime": "00:01"
+    },
+       {
+    "Name": "GT vs RR",
+    "Url": "https://bighra.crik.live/Events/ipl.json",
+    "ImageUrl": "https://assets.crik.live/Events/ipl/74.jpg",
+    "startDate": "2022-5-29",
     "startTime": "12:00",
-    "EventName": "IND vs SL",
-    "endDate": "2022-2-27",
+    "EventName": "IPL",
+    "endDate": "2022-5-30",
     "endTime": "12:00"
     },
-      {
-    "Name": "IND vs SL",
-    "Url": "https://bighra.tk/Events/ind-sl.json",
-    "ImageUrl": "https://assets.crik.live/Events/ind-sl.jpg",
-    "startDate": "2022-2-27",
-    "startTime": "12:00",
-    "EventName": "IND vs SL",
-    "endDate": "2022-2-28",
-    "endTime": "12:00"
-    },
-   {
+         {
+    "Name": "GT VS RR",
+    "Url": "https://bighra.crik.live/Events/ipl.json",
+    "ImageUrl": "https://assets.crik.live/Events/ipl/74.jpg",
+    "startDate": "2022-05-29",
+    "startTime": "00:01",
+    "EventName": "IPL",
+    "endDate": "2022-05-30",
+    "endTime": "00:01"
+    }
+   ,{
     "Name": "Star Sports",
-    "Url": "https://bighra.tk/Channels.json",
+    "Url": "https://bighra.crik.live/Channels/star.json",
     "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -614,34 +197,14 @@
     },
     {
     "Name": "Star Sports Hindi",
-    "Url": "https://bighra.tk/Channels.json",
+    "Url": "https://bighra.crik.live/Channels/star.json",
     "ImageUrl": "https://assets.crik.live/Channels/star-hindi.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Star Sports Hindi",
     "endDate": "2050-12-29",
     "endTime": "12:00"
-    },  
-      {
-    "Name": "India U19 vs Uganda U19",
-    "Url": "https://bighra.tk/Events/u19.json",
-    "ImageUrl": "https://assets.crik.live/Events/u19/23.jpg",
-    "startDate": "2022-1-22",
-    "startTime": "00:00",
-    "EventName": "U19",
-    "endDate": "2022-1-23",
-    "endTime": "00:00"
-      },
-      {
-    "Name": "Pakistan U19 vs Zimbabwe U19",
-    "Url": "https://bighra.tk/Events/u19.json",
-    "ImageUrl": "https://assets.crik.live/Events/u19/24.jpg",
-    "startDate": "2022-1-22",
-    "startTime": "00:00",
-    "EventName": "U19",
-    "endDate": "2022-1-23",
-    "endTime": "00:00"
-      }
+    }
     ],
     "title": "Star Sports"
     }]

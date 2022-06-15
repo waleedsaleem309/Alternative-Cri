@@ -1,0 +1,87 @@
+[{    
+    "channels": [
+  {
+    "Name": "Little Stars Universe",
+    "Url": "http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=95537d40-d6ee-11ec-a17d-d52cde79aef5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b434bf50-4e05-4bb8-9c24-65484e30a2bd&userId=&serverSideAds=true",
+    "ImageUrl": "file:///android_asset/1.png"
+      },
+       {
+    "Name": "Forever Kids",
+    "Url": "http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9555a021-d6ee-11ec-a17d-d52cde79aef5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c783cc74-6322-4fe4-a71d-f655927535e2&userId=&serverSideAds=true",
+    "ImageUrl": "file:///android_asset/16.png"
+      },
+       {
+    "Name": "Nick",
+    "Url": "http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=955ccc11-d6ee-11ec-a17d-d52cde79aef5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6a924baf-3703-4639-9deb-a2b9f145c4f5&userId=&serverSideAds=true",
+    "ImageUrl": "file:///android_asset/88.png"
+      },
+       {
+    "Name": "Nick Jr.",
+    "Url": "http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=955ccc12-d6ee-11ec-a17d-d52cde79aef5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=974c0619-a262-42fa-a915-0f289d3c1dec&userId=&serverSideAds=true",
+    "ImageUrl": "file:///android_asset/89.png"
+      },
+       {
+    "Name": "TOTALLY TURTLES",
+    "Url": "http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=955f1601-d6ee-11ec-a17d-d52cde79aef5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8cf7e225-1198-4e94-9f6a-505727555c5f&userId=&serverSideAds=true",
+    "ImageUrl": "file:///android_asset/107.png"
+      }
+      ],
+"category": "Kids"
+  },{    
+    "channels": [
+       {
+    "Name": "Pluto TV News",
+    "Url": "http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9554b5c0-d6ee-11ec-a17d-d52cde79aef5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6a45894-1d72-47ca-9624-6e94858055cc&userId=&serverSideAds=true",
+    "ImageUrl": "file:///android_asset/2.png"
+    },
+         {
+    "Name": "TYT Network",
+    "Url": "http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5331d5fb753499095a00045a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9554b5c2-d6ee-11ec-a17d-d52cde79aef5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f72b165-b342-42be-bd43-f8090ed156da&userId=&serverSideAds=true",
+    "ImageUrl": "file:///android_asset/4.png"
+    },
+       {
+    "Name": "CNNR",
+    "Url": "http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9554dcd1-d6ee-11ec-a17d-d52cde79aef5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5a4b6647-cffb-4c56-b1d2-05357726b338&userId=&serverSideAds=true",
+    "ImageUrl": "file:///android_asset/6.png"
+    }
+      ],
+"category": "News"
+  },{    
+    "channels": [
+  {
+    "Name": "Slow TV",
+    "Url": "http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9554b5c1-d6ee-11ec-a17d-d52cde79aef5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5ed19186-556f-4eee-bf08-f5d5fa23f1ca&userId=&serverSideAds=true",
+    "ImageUrl": "file:///android_asset/3.png"
+      },
+       {
+    "Name": "Pluto TV Science",
+    "Url": "http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=95561550-d6ee-11ec-a17d-d52cde79aef5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6214c737-26fc-42a2-aecf-1b900062787e&userId=&serverSideAds=true",
+    "ImageUrl": "file:///android_asset/25.png"
+      },
+       {
+    "Name": "Pluto TV Animal",
+    "Url": "http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9555ee42-d6ee-11ec-a17d-d52cde79aef5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=721afe51-fdde-4397-9b20-4a2d543ebb1c&userId=&serverSideAds=true",
+    "ImageUrl": "file:///android_asset/23.png"
+      }
+      ],
+"category": "Explore"
+  },{ 
+"channels": [ 
+{
+    "Name": "MST3K",
+    "Url": "http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=955503e0-d6ee-11ec-a17d-d52cde79aef5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b8f1f37c-9f53-4332-ac53-9b921b71200e&userId=&serverSideAds=true",
+    "ImageUrl": "file:///android_asset/7.png"
+    },
+    {
+    "Name": "Failarmy",
+    "Url": "http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=95552af0-d6ee-11ec-a17d-d52cde79aef5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9ca92b69-1a81-42c2-bd84-c408f93ad44b&userId=&serverSideAds=true",
+    "ImageUrl": "file:///android_asset/10.png"
+    },
+    {
+    "Name": "Stand-Up TV",
+    "Url": "http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9555ee41-d6ee-11ec-a17d-d52cde79aef5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9f6fa13f-73db-4af2-a675-57d6d53441fb&userId=&serverSideAds=true",
+    "ImageUrl": "file:///android_asset/22.png"
+    }
+    ],
+    "category": "Comedy"
+    }]

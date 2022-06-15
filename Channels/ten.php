@@ -1,5 +1,4 @@
 <?php
-include 'u19.php';
 include 'psl.php';
 include 'pak.php';
 $json = 'ten.json';
@@ -7,7 +6,7 @@ $TEN = '{
 "events":[ 
 {
     "Name": "Ten Sports",
-    "Url": "https://bighra.tk/Channels.json",
+    "Url": "https://bighra.crik.live/Channels.json",
     "ImageUrl": "https://assets.crik.live/Channels/Ten-Sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -23,7 +22,7 @@ $TEN = '{
 . $PAK . ',' .
 '{
     "Name": "Ten Sports",
-    "Url": "https://bighra.tk/Channels.json",
+    "Url": "https://bighra.crik.live/Channels.json",
     "ImageUrl": "https://assets.crik.live/Channels/Ten-Sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",

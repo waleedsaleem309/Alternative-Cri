@@ -6,7 +6,7 @@ $EuroSport = '{
 "events": [ 
 {
     "Name": "EU 1",
-    "Url": "https://bighra.tk/Channels/euro.json",
+    "Url": "https://bighra.crik.live/Channels/euro.json",
     "ImageUrl": "https://assets.crik.live/Channels/euro1.jp",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -16,7 +16,7 @@ $EuroSport = '{
     },
     {
     "Name": "EU 2",
-    "Url": "https://bighra.tk/Channels/euro.json",
+    "Url": "https://bighra.crik.live/Channels/euro.json",
     "ImageUrl": "https://assets.crik.live/Channels/euro2.jp",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -31,7 +31,7 @@ $EuroSport = '{
 "events": [ '  .
 '{
     "Name": "EU 1",
-    "Url": "https://bighra.tk/Channels/euro.json",
+    "Url": "https://bighra.crik.live/Channels/euro.json",
     "ImageUrl": "https://assets.crik.live/Channels/euro1.jp",
     "startDate": "2022-1-1",
     "startTime": "12:00",
@@ -41,7 +41,7 @@ $EuroSport = '{
     },
     {
     "Name": "EU 2",
-    "Url": "https://bighra.tk/Channels/euro.json",
+    "Url": "https://bighra.crik.live/Channels/euro.json",
     "ImageUrl": "https://assets.crik.live/Channels/euro2.jp",
     "startDate": "2022-1-1",
     "startTime": "12:00",
