@@ -1,7 +1,8 @@
 <?php
-$PSL =  '{    
-    "events": [
-   {
+ include '../Channels/asia-cup.php';
+ $PSL =  '{    
+    "events": [' . $Asia . ',' .
+   '{
     "Name": "PTV Sports",
     "Url": "https://bighra.crik.live/Channels.json",
     "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",

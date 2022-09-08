@@ -1,35 +1,17 @@
+[
+    { 
+"events": [ 
 {
-"Football": [
-    {
-    "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Sky Football",
-  "Url" : "https://crik.live/Football_Channels.json"
-  },
-    {
-    "EventImage" : "file:///android_asset/cricket.png",
-    "EventName" : "Ten Sports",
-  "Url" : "https://crik.live/Football_Channels.json"
-  }
-],
-  "Sky Football" : [
-  {
-  "EventImage" : "file:///android_asset/sky_football.jpg",
-  "EventName" : "Sky Football",
-  "Url" : "https://bighra.crik.live/Football_Channels.json"
-}
-],
-  "Laliga" : [
-  {
-  "EventImage" : "file:///android_asset/sky_football.jpg",
-  "EventName" : "Spanish League Live",
-  "Url" : "https://bighra.crik.live/Football_Channels.json"
-}
-],
-      "Premier" : [
-  {
-  "EventImage" : "file:///android_asset/sky_football.jpg",
-  "EventName" : "English League",
-  "Url" : "https://bighra.crik.live/Football_Channels.json"
-}
-]
-}
+    "Name": "Sheffield United vs Coventry Cit",
+    "Url": "https://bighra.crik.live/Football_Events.json",
+    "ImageUrl": "https://footballwhispers.com/wp-content/uploads/2021/11/Sheffield-United-vs-Coventry-Prediction.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "Sheffield United vs Coventry City",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+    }
+    ],
+    "title": "PTV Sports"
+    }
+    ]

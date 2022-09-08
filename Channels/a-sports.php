@@ -1,7 +1,6 @@
 <?php
 $json = 'a-sports.json';
-include 'psl.php';
-include 'pak.php';
+include 'asia-cup.php';
 $A = '{ 
 "events": [ 
 {
@@ -18,7 +17,7 @@ $A = '{
     "title": "A Sports"
     }';
     $A1 = '{ 
-"events": [ ' . $PAK   .
+"events": [ ' . $Asia   .
 ',{
     "Name": "A Sports",
     "Url": "https://bighra.crik.live/Channels/a-sports.json",

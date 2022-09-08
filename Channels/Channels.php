@@ -1,6 +1,5 @@
 <html>
     <body>
-                <iframe src = "https://crik.live/Channels/psl.php"></iframe>
                 <iframe src = "https://crik.live/Channels/ptv.php"></iframe>
                 <iframe src = "https://crik.live/Channels/a-sports.php"></iframe>
                 <iframe src = "https://crik.live/Channels/Cricket.php"></iframe>

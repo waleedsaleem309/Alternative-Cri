@@ -1,8 +1,5 @@
 <?php
-include 'bbl.php';
-include 'u19.php';
-include 'psl.php';
-include 'pak.php';
+include 'asia-cup.php';
 $json = 'ptv.json';
 $PTV = '{ 
 "events": [ 
@@ -21,7 +18,7 @@ $PTV = '{
     }';
     $PTV1 = '{ 
 "events": [ 
-' . $PAK .  ' 
+' . $Asia .  ' 
 ,{
     "Name": "PTV Sports",
     "Url": "https://bighra.crik.live/Channels.json",

@@ -1,6 +1,5 @@
 <?php
-include 'psl.php';
-include 'pak.php';
+include 'asia-cup.php';
 $json = 'ten.json';
 $TEN = '{
 "events":[ 
@@ -19,7 +18,7 @@ $TEN = '{
     }';
       $TEN1 = '{ 
 "events": [ '
-. $PAK . ',' .
+. $Asia . ',' .
 '{
     "Name": "Ten Sports",
     "Url": "https://bighra.crik.live/Channels.json",

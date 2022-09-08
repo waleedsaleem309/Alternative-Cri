@@ -1,7 +1,8 @@
 {"LV" : "6",
-"APK" : "http://apps.crik.live/psl.apk", 
+"APK" : "http://apps.crik.live/t20.apk", 
 "Store" : "https://yahoo.com",
 "Ads" : "true",
 "ADS-6" : "true",
 "ADS-7" : "true",
+"ADS-8" : "false",
 "Cancelable" : "true"}

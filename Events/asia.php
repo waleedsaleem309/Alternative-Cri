@@ -1,4 +1,5 @@
-[{    
+<?php
+$ASIA =  '{    
     "events": [
 {
 "Name": "India vs Sri Lanka",
@@ -82,71 +83,6 @@
 }
 ],
 "title": "Asia Cup"
-  },{ 
-"events": [ 
-{
-    "Name": "PTV Sports",
-    "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",
-    "startDate": "2022-1-1",
-    "startTime": "12:00",
-    "EventName": "PTV Sports",
-    "endDate": "2050-12-29",
-    "endTime": "12:00"
-    }
-    ],
-    "title": "PTV Sports"
-    },{ 
-"events": [ 
-{
-    "Name": "A Sports",
-    "Url": "https://bighra.crik.live/Channels/a-sports.json",
-    "ImageUrl": "https://assets.crik.live/Channels/a-sports.jpg",
-    "startDate": "2022-1-1",
-    "startTime": "12:00",
-    "EventName": "A Sports",
-    "endDate": "2050-12-29",
-    "endTime": "12:00"
-    }
-    ],
-    "title": "A Sports"
-    },{
-"events":[ 
-{
-    "Name": "Ten Sports",
-    "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/Ten-Sports.jpg",
-    "startDate": "2022-1-1",
-    "startTime": "12:00",
-    "EventName": "Ten Sports",
-    "endDate": "2050-12-19",
-    "endTime": "12:00"
-    }
-    ],
-    "title": "Ten Sports"
-    },{ 
-"events": [ 
+  }';
+?>
 
-{
-    "Name": "Star Sports",
-    "Url": "https://bighra.crik.live/Channels/star.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
-    "startDate": "2022-1-1",
-    "startTime": "12:00",
-    "EventName": "Star Sports",
-    "endDate": "2050-12-29",
-    "endTime": "12:00"
-    },
-    {
-    "Name": "Star Sports Hindi",
-    "Url": "https://bighra.crik.live/Channels/star.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star-hindi.jpg",
-    "startDate": "2022-1-1",
-    "startTime": "12:00",
-    "EventName": "Star Sports Hindi",
-    "endDate": "2050-12-29",
-    "endTime": "12:00"
-    }
-    ],
-    "title": "Star Sports"
-    }]

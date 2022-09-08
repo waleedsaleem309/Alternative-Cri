@@ -1,6 +1,7 @@
 <?php
 $json = 't20.json';
-include '../Channels/ipl.php';
+include '../Channels/asia-cup.php';
+
 $T20 = '{ 
 "events": [ 
 
@@ -28,7 +29,7 @@ $T20 = '{
     "title": "Star Sports"
     }';
         $T201 = '{ 
-"events": [ ' . $IPL .
+"events": [ ' . $Asia .
 '
   , {
     "Name": "Star Sports",
@@ -54,7 +55,7 @@ $T20 = '{
     "title": "T20 World Cup"
     }';
     //   echo $A1;
-    $T202 = '[' . $T201 . ']';
+    $T202 = '[' . $T201 .']';
       file_put_contents($json, $T202);
         // header("Location: https://crik.live/Channels/" . $json);
 ?>
