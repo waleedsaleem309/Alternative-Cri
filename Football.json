@@ -15,21 +15,21 @@
   {
   "EventImage" : "file:///android_asset/sky_football.jpg",
   "EventName" : "Sky Football",
-  "Url" : "https://bighra.tk/Football_Channels.json"
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
 }
 ],
   "Laliga" : [
   {
   "EventImage" : "file:///android_asset/sky_football.jpg",
   "EventName" : "Spanish League Live",
-  "Url" : "https://bighra.tk/Football_Channels.json"
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
 }
 ],
       "Premier" : [
   {
   "EventImage" : "file:///android_asset/sky_football.jpg",
   "EventName" : "English League",
-  "Url" : "https://bighra.tk/Football_Channels.json"
+  "Url" : "https://bighra.crik.live/Football_Channels.json"
 }
 ]
 }
