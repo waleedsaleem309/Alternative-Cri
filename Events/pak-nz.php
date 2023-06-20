@@ -1,7 +1,5 @@
-[
-      { 
-         "events":
-             [
+<?php
+$PAK =  '
 {
 "Name": "PAK vs NZ",
 "Url": "https://bighra.crik.live/Events/pak-nz.json",
@@ -32,17 +30,6 @@
 "endDate": "2023-05-04",
 "endTime": "05:59"
 },
-{
-    "Name": "Ten Sports",
-    "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/Ten-Sports.jpg",
-    "startDate": "2022-1-1",
-    "startTime": "12:00",
-    "EventName": "Ten Sports",
-    "endDate": "2050-12-19",
-    "endTime": "12:00"
-    }
-    ],
-    "title": "Ten Sports"
-  }
-]
+';
+?>
+

@@ -1,8 +1,21 @@
+
 <?php
-include '../Channels/asia-cup.php';
-$IPL =  '{    
-    "events": [ ' . $Asia . ',' .
- '{
+$IPL0 = '
+{
+"Name": "CSK vs GT",
+"Url": "https://bighra.crik.live/Events/ipl.json",
+"ImageUrl": "https://assets.crik.live/Events/ipl/1.webp",
+"startDate": "2023-05-28",
+"startTime": "00:01",
+"EventName": "IPL 2023",
+"endDate": "2023-05-28",
+"endTime": "23:59"
+},
+
+';
+ $IPL =  '{    
+    "events": ['.$IPL0.'
+{
     "Name": "Star Sports",
     "Url": "https://bighra.crik.live/Channels.json",
     "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
@@ -23,9 +36,9 @@ $IPL =  '{
     "endTime": "12:00"
     }
       ],
-"title": "IPL"
+"title": "PSL"
   }';
   $IPL1 = '[' . $IPL . ']';
-    file_put_contents('ipl.json', $IPL1);
+    file_put_contents('ipl.json', $IPL1)
 ?>
 

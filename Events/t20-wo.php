@@ -1,38 +1,16 @@
 <?php
-$T20_Wo = ' {    
-    "events": [
-        {
-    "Name": "New Zealand Women vs Pakistan Women",
-    "Url": "https://bighra.crik.live/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-26",
-    "startTime": "00:00",
-    "endDate": "2022-3-27",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "England Women vs Bangladesh Women",
-    "Url": "https://bighra.crik.live/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-27",
-    "startTime": "00:00",
-    "endDate": "2022-3-28",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      },
-        {
-    "Name": "India Women vs South Africa Women",
-    "Url": "https://bighra.crik.live/Events/t20-wo.json",
-    "ImageUrl": "https://assets.crik.live/Events/t20-wo.jpg",
-    "startDate": "2022-3-27",
-    "startTime": "00:00",
-    "endDate": "2022-3-28",
-    "EventName": "T20 Women",
-    "endTime": "00:00"
-      }
-    ],
-"title": "T20 Women"
-  }';
+$T20_Women =  '
+{
+"Name": "Women T20 World Cup",
+"Url": "https://bighra.crik.live/Events/t20-women.json",
+"ImageUrl": "https://assets.crik.live/Events/t20-women.jpg",
+"startDate": "2023-02-11",
+"startTime": "00:01",
+"EventName": "Women T20 World Cup",
+"endDate": "2023-02-24",
+"endTime": "23:59"
+},
 
+';
 ?>
+

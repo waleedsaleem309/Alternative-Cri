@@ -1,85 +1,66 @@
-[{ 
-"events": [ {
-"Name": "India vs Sri Lanka",
-"Url": "https://bighra.crik.live/Events/asia-cup.json",
-"ImageUrl": "https://assets.crik.live/Events/asia/9.jpg",
-"startDate": "2022-9-6",
+[
+        { 
+"events": [{
+"Name": "INDIA vs AUSTRALIA",
+"Url": "https://bighra.crik.live/Events/ind.json",
+"ImageUrl": "https://assets.crik.live/Events/ind-aus.jpg",
+"startDate": "2022-9-20",
 "startTime": "12:00",
-"EventName": "Asia Cup",
-"endDate": "2022-9-7",
+"EventName": "IND vs AUS",
+"endDate": "2022-9-21",
 "endTime": "12:00"
 },
 {
-"Name": "India vs Sri Lanka",
-"Url": "https://bighra.crik.live/Events/asia-cup.json",
-"ImageUrl": "https://assets.crik.live/Events/asia/9.jpg",
-"startDate": "2022-09-06",
+"Name": "India vs Austraila",
+"Url": "https://bighra.crik.live/Events/ind.json",
+"ImageUrl": "https://assets.crik.live/Events/ind-aus.jpg",
+"startDate": "2022-09-20",
 "startTime": "00:01",
-"EventName": "Asia Cup",
-"endDate": "2022-09-06",
+"EventName": "IND vs AUS",
+"endDate": "2022-09-20",
 "endTime": "23:59"
 },
 {
-"Name": "Pakistan vs Afghanistan",
-"Url": "https://bighra.crik.live/Events/asia-cup.json",
-"ImageUrl": "https://assets.crik.live/Events/asia/10.jpg",
-"startDate": "2022-9-7",
+"Name": "INDIA vs AUSTRALIA",
+"Url": "https://bighra.crik.live/Events/ind.json",
+"ImageUrl": "https://assets.crik.live/Events/ind-aus.jpg",
+"startDate": "2022-9-23",
 "startTime": "12:00",
-"EventName": "Asia Cup",
-"endDate": "2022-9-8",
+"EventName": "IND vs AUS",
+"endDate": "2022-9-24",
 "endTime": "12:00"
 },
 {
-"Name": "Pakistan vs Afghanistan",
-"Url": "https://bighra.crik.live/Events/asia-cup.json",
-"ImageUrl": "https://assets.crik.live/Events/asia/10.jpg",
-"startDate": "2022-09-07",
+"Name": "India vs Austraila",
+"Url": "https://bighra.crik.live/Events/ind.json",
+"ImageUrl": "https://assets.crik.live/Events/ind-aus.jpg",
+"startDate": "2022-09-23",
 "startTime": "00:01",
-"EventName": "Asia Cup",
-"endDate": "2022-09-07",
+"EventName": "IND vs AUS",
+"endDate": "2022-09-23",
 "endTime": "23:59"
 },
 {
-"Name": "India vs Afghanistan",
-"Url": "https://bighra.crik.live/Events/asia-cup.json",
-"ImageUrl": "https://assets.crik.live/Events/asia/11.jpg",
-"startDate": "2022-9-8",
+"Name": "INDIA vs AUSTRALIA",
+"Url": "https://bighra.crik.live/Events/ind.json",
+"ImageUrl": "https://assets.crik.live/Events/ind-aus.jpg",
+"startDate": "2022-9-25",
 "startTime": "12:00",
-"EventName": "Asia Cup",
-"endDate": "2022-9-9",
+"EventName": "IND vs AUS",
+"endDate": "2022-9-26",
 "endTime": "12:00"
 },
 {
-"Name": "India vs Afghanistan",
-"Url": "https://bighra.crik.live/Events/asia-cup.json",
-"ImageUrl": "https://assets.crik.live/Events/asia/11.jpg",
-"startDate": "2022-09-08",
+"Name": "India vs Austraila",
+"Url": "https://bighra.crik.live/Events/ind.json",
+"ImageUrl": "https://assets.crik.live/Events/ind-aus.jpg",
+"startDate": "2022-09-25",
 "startTime": "00:01",
-"EventName": "Asia Cup",
-"endDate": "2022-09-08",
+"EventName": "IND vs AUS",
+"endDate": "2022-09-25",
 "endTime": "23:59"
 },
 {
-"Name": "Sri Lanka vs Pakistan",
-"Url": "https://bighra.crik.live/Events/asia-cup.json",
-"ImageUrl": "https://assets.crik.live/Events/asia/12.jpg",
-"startDate": "2022-9-9",
-"startTime": "12:00",
-"EventName": "Asia Cup",
-"endDate": "2022-9-10",
-"endTime": "12:00"
-},
-{
-"Name": "Sri Lanka vs Pakistan",
-"Url": "https://bighra.crik.live/Events/asia-cup.json",
-"ImageUrl": "https://assets.crik.live/Events/asia/12.jpg",
-"startDate": "2022-09-09",
-"startTime": "00:01",
-"EventName": "Asia Cup",
-"endDate": "2022-09-09",
-"endTime": "23:59"
-}
-   ,{
     "Name": "Star Sports",
     "Url": "https://bighra.crik.live/Channels/star.json",
     "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
@@ -101,4 +82,5 @@
     }
     ],
     "title": "Star Sports"
-    }]
+    }
+]
