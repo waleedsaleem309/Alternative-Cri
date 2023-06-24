@@ -1,5 +1,7 @@
 {"LV" : "01",
-"APK" : "https://apps.crik.live/ipl-tv.apk", 
-"Store" : "https://play.google.com/store/apps/details?id=com.abrish.ptvsports.cricket",
+"APK" : "https://apps.crik.live/ptv-tv.apk", 
+"Store" : "https://play.google.com/store/apps/details?id=com.abrish.ptvsports.cricket.tv",
 "Library" : "6",
-"Cancelable" : "true"}
+"Url" : "https://b.crik.live/Channels/ptv.json",
+"Cancelable" : "true"
+}
