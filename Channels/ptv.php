@@ -1,6 +1,6 @@
 <?php
 include '../Events/worldcup.php';
-include '../Events/pak-nz.php';
+include '../Events/icc.php';
 
 
 $json = 'ptv.json';
@@ -17,7 +17,7 @@ $PTV = '{
     $PTV1 = '[
     { 
 "events": [ 
-            '. $PAK . $PTV .   '
+            '. $ICC . $PTV .   '
     ],
     "title": "PTV Sports"
     }

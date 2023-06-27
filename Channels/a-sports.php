@@ -1,6 +1,6 @@
 <?php
 $json = 'a-sports.json';
-include '../Events/pak-nz.php';
+include '../Events/icc.php';
 $A = '
 {
     "Name": "A Sports",
@@ -14,7 +14,7 @@ $A = '
     }';
     $A1 = '[
     { 
-"events": [ '.$PAK . $A  .  '
+"events": [ '.$ICC . $A  .  '
     ],
     "title": "A Sports"
     }

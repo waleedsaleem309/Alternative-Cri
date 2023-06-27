@@ -1,25 +1,13 @@
 [{ 
 "events": [ 
 {
-"Name": "CSK vs GT",
-"Url": "https://bighra.crik.live/Events/ipl.json",
-"ImageUrl": "https://assets.crik.live/Events/ipl/1.webp",
-"startDate": "2023-05-28",
+"Name": "ICC Mens Cricket World Cup Qualifier",
+"Url": "https://bighra.crik.live/Events/icc.json",
+"ImageUrl": "https://assets.crik.live/Events/icc_qualifier.webp",
+"startDate": "2023-06-09",
 "startTime": "00:01",
-"EventName": "IPL 2023",
-"endDate": "2023-05-28",
-"endTime": "23:59"
-},
-
-
-{
-"Name": "Women T20 World Cup",
-"Url": "https://bighra.crik.live/Events/t20-women.json",
-"ImageUrl": "https://assets.crik.live/Events/t20-women.jpg",
-"startDate": "2023-02-11",
-"startTime": "00:01",
-"EventName": "Women T20 World Cup",
-"endDate": "2023-02-24",
+"EventName": "World Cup Qualifier",
+"endDate": "2023-07-09",
 "endTime": "23:59"
 },
 

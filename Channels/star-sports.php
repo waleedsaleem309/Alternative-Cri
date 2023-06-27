@@ -1,7 +1,6 @@
 <?php
 $json = 'star-sports.json';
-include '../Events/ind.php';
-include '../Events/ipl.php';
+include '../Events/icc.php';
 
 $Star_Sports = '
 {
@@ -26,7 +25,7 @@ $Star_Sports = '
     }';
         $Star_Sports1 = '[
         { 
-"events": [' .$IPL0  . $Star_Sports . '
+"events": [' .$ICC  . $Star_Sports . '
     ],
     "title": "Star Sports"
     }

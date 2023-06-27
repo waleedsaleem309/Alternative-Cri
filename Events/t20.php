@@ -2,7 +2,7 @@
 $json = 't20.json';
 include 'worldcup.php';
 include 't20-wo.php';
-include 'ipl.php';
+include 'icc.php';
 $T20 = '{ 
 "events": [ 
 
@@ -30,7 +30,7 @@ $T20 = '{
     "title": "Star Sports"
     }';
         $T201 = '{ 
-"events": [ ' .$IPL0 .$T20_Women. $World . ' {
+"events": [ ' .$ICC . $World . ' {
     "Name": "Star Sports",
     "Url": "https://bighra.crik.live/Channels.json",
     "ImageUrl": "https://assets.crik.live/Channels/star.jpg",

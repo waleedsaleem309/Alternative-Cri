@@ -25,35 +25,16 @@
     { 
 "events": [ 
 {
-"Name": "PAK vs NZ",
-"Url": "https://bighra.crik.live/Events/pak-nz.json",
-"ImageUrl": "https://assets.crik.live/Events/pak-nz.webp",
-"startDate": "2023-04-27",
+"Name": "ICC Mens Cricket World Cup Qualifier",
+"Url": "https://bighra.crik.live/Events/icc.json",
+"ImageUrl": "https://assets.crik.live/Events/icc_qualifier.webp",
+"startDate": "2023-06-09",
 "startTime": "00:01",
-"EventName": "PAK vs NZ",
-"endDate": "2023-04-28",
-"endTime": "05:59"
+"EventName": "World Cup Qualifier",
+"endDate": "2023-07-09",
+"endTime": "23:59"
 },
-{
-"Name": "PAK vs NZ",
-"Url": "https://bighra.crik.live/Events/pak-nz.json",
-"ImageUrl": "https://assets.crik.live/Events/pak-nz.webp",
-"startDate": "2023-04-29",
-"startTime": "00:01",
-"EventName": "PAK vs NZ",
-"endDate": "2023-04-30",
-"endTime": "05:59"
-},
-{
-"Name": "PAK vs NZ",
-"Url": "https://bighra.crik.live/Events/pak-nz.json",
-"ImageUrl": "https://assets.crik.live/Events/pak-nz.webp",
-"startDate": "2023-05-03",
-"startTime": "00:01",
-"EventName": "PAK vs NZ",
-"endDate": "2023-05-04",
-"endTime": "05:59"
-},
+
 
 {
     "Name": "A Sports",

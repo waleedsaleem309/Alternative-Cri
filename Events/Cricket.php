@@ -6,11 +6,10 @@ include '../Channels/sky.php';
 include '../Channels/super.php';
 include '../Channels/willow.php';
 include '../Channels/star-sports.php';
-include 'pak-nz.php';
-include 'ipl.php';
+include 'icc.php';
 $Cricket = '[
 {
-    "events" : ['. $IPL0 . $PAK . $PTV . ','  . $TEN . ',' . $Star_Sports . ',' . $Sky . ',' . $Willow
+    "events" : [' . $ICC . $PTV . ','  . $TEN . ',' . $Star_Sports . ',' . $Sky . ',' . $Willow
     .'],
     "title" : "Cricket"
     }

@@ -1,6 +1,6 @@
 <?php
 include '../Events/worldcup.php';
-include '../Events/pak-nz.php';
+include '../Events/icc.php';
 
 $json = 'ten.json';
 $TEN = '{
@@ -19,7 +19,7 @@ $TEN = '{
       { 
          "events":
              ['
-        . $PAK . $TEN .   '
+        . $ICC . $TEN .   '
     ],
     "title": "Ten Sports"
   }
