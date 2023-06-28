@@ -3,7 +3,7 @@
    {
     "Name": "PTV Sports",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/PTV-Sports.jpg",
     "startDate": "2022-2-2",
     "startTime": "00:00",
     "EventName": "PTV Sports",
@@ -18,7 +18,7 @@
   {
     "Name": "PAK vs AUS 1st ODI",
     "Url": "https://bighra.crik.live/Events/pak-aus.json",
-    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "ImageUrl": "https://asset.crik.live/Events/pak-aus.jpg",
     "startDate": "2022-3-29",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
@@ -28,7 +28,7 @@
        {
     "Name": "PAK vs AUS 2nd ODI",
     "Url": "https://bighra.crik.live/Events/pak-aus.json",
-    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "ImageUrl": "https://asset.crik.live/Events/pak-aus.jpg",
     "startDate": "2022-3-31",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
@@ -38,7 +38,7 @@
        {
     "Name": "PAK vs AUS 3rd ODI",
     "Url": "https://bighra.crik.live/Events/pak-aus.json",
-    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "ImageUrl": "https://asset.crik.live/Events/pak-aus.jpg",
     "startDate": "2022-4-2",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
@@ -50,7 +50,7 @@
   },{
     "Name": "A Sports",
     "Url": "https://bighra.crik.live/Channels/a-sports.json",
-    "ImageUrl": "https://assets.crik.live/Channels/a-sports.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/a-sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "A Sports",
@@ -66,7 +66,7 @@
   {
     "Name": "PAK vs AUS 1st ODI",
     "Url": "https://bighra.crik.live/Events/pak-aus.json",
-    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "ImageUrl": "https://asset.crik.live/Events/pak-aus.jpg",
     "startDate": "2022-3-29",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
@@ -76,7 +76,7 @@
        {
     "Name": "PAK vs AUS 2nd ODI",
     "Url": "https://bighra.crik.live/Events/pak-aus.json",
-    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "ImageUrl": "https://asset.crik.live/Events/pak-aus.jpg",
     "startDate": "2022-3-31",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
@@ -86,7 +86,7 @@
        {
     "Name": "PAK vs AUS 3rd ODI",
     "Url": "https://bighra.crik.live/Events/pak-aus.json",
-    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "ImageUrl": "https://asset.crik.live/Events/pak-aus.jpg",
     "startDate": "2022-4-2",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
@@ -99,7 +99,7 @@
 ,{
     "Name": "PTV Sports",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/PTV-Sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "PTV Sports",
@@ -114,7 +114,7 @@
   {
     "Name": "PAK vs AUS 1st ODI",
     "Url": "https://bighra.crik.live/Events/pak-aus.json",
-    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "ImageUrl": "https://asset.crik.live/Events/pak-aus.jpg",
     "startDate": "2022-3-29",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
@@ -124,7 +124,7 @@
        {
     "Name": "PAK vs AUS 2nd ODI",
     "Url": "https://bighra.crik.live/Events/pak-aus.json",
-    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "ImageUrl": "https://asset.crik.live/Events/pak-aus.jpg",
     "startDate": "2022-3-31",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
@@ -134,7 +134,7 @@
        {
     "Name": "PAK vs AUS 3rd ODI",
     "Url": "https://bighra.crik.live/Events/pak-aus.json",
-    "ImageUrl": "https://assets.crik.live/Events/pak-aus.jpg",
+    "ImageUrl": "https://asset.crik.live/Events/pak-aus.jpg",
     "startDate": "2022-4-2",
     "startTime": "00:00",
     "EventName": "PAK vs AUS",
@@ -146,7 +146,7 @@
   },{
     "Name": "Ten Sports",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/Ten-Sports.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/Ten-Sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Ten Sports",
@@ -161,7 +161,7 @@
        {
     "Name": "RR vs RCB",
     "Url": "https://bighra.crik.live/Events/ipl.json",
-    "ImageUrl": "https://assets.crik.live/Events/ipl/73.jpg",
+    "ImageUrl": "https://asset.crik.live/Events/ipl/73.jpg",
     "startDate": "2022-5-27",
     "startTime": "12:00",
     "EventName": "IPL",
@@ -171,7 +171,7 @@
          {
     "Name": "RR vs RCB",
     "Url": "https://bighra.crik.live/Events/ipl.json",
-    "ImageUrl": "https://assets.crik.live/Events/ipl/73.jpg",
+    "ImageUrl": "https://asset.crik.live/Events/ipl/73.jpg",
     "startDate": "2022-05-27",
     "startTime": "00:01",
     "EventName": "IPL",
@@ -181,7 +181,7 @@
        {
     "Name": "GT vs RR",
     "Url": "https://bighra.crik.live/Events/ipl.json",
-    "ImageUrl": "https://assets.crik.live/Events/ipl/74.jpg",
+    "ImageUrl": "https://asset.crik.live/Events/ipl/74.jpg",
     "startDate": "2022-5-29",
     "startTime": "12:00",
     "EventName": "IPL",
@@ -191,7 +191,7 @@
          {
     "Name": "GT VS RR",
     "Url": "https://bighra.crik.live/Events/ipl.json",
-    "ImageUrl": "https://assets.crik.live/Events/ipl/74.jpg",
+    "ImageUrl": "https://asset.crik.live/Events/ipl/74.jpg",
     "startDate": "2022-05-29",
     "startTime": "00:01",
     "EventName": "IPL",
@@ -201,7 +201,7 @@
      {
     "Name": "Star Sports",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/star.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Star Sports",
@@ -211,7 +211,7 @@
     {
     "Name": "Star Sports Hindi",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star-hindi.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/star-hindi.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Star Sports Hindi",
@@ -224,7 +224,7 @@
    ,{
     "Name": "Star Sports",
     "Url": "https://bighra.crik.live/Channels/star.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/star.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Star Sports",
@@ -234,7 +234,7 @@
     {
     "Name": "Star Sports Hindi",
     "Url": "https://bighra.crik.live/Channels/star.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star-hindi.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/star-hindi.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Star Sports Hindi",

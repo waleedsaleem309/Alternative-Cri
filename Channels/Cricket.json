@@ -3,7 +3,7 @@
 {
 "Name": "Lahore Qalandars vs Multan Sultan",
 "Url": "https://bighra.crik.live/Events/psl.json",
-"ImageUrl": "https://assets.crik.live/Events/psl/1.webp",
+"ImageUrl": "https://asset.crik.live/Events/psl/1.webp",
 "startDate": "2023-03-18",
 "startTime": "00:01",
 "EventName": "PSL 8",
@@ -12,7 +12,7 @@
 },{
     "Name": "PSL Live",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Events/psl1.jpg",
+    "ImageUrl": "https://asset.crik.live/Events/psl1.jpg",
     "startDate": "2022-2-2",
     "startTime": "00:00",
     "EventName": "PTV Sports",
@@ -27,7 +27,7 @@
 {
 "Name": "ICC Mens Cricket World Cup Qualifier",
 "Url": "https://bighra.crik.live/Events/icc.json",
-"ImageUrl": "https://assets.crik.live/Events/icc_qualifier.webp",
+"ImageUrl": "https://asset.crik.live/Events/icc_qualifier.webp",
 "startDate": "2023-06-09",
 "startTime": "00:01",
 "EventName": "World Cup Qualifier",
@@ -39,7 +39,7 @@
 {
     "Name": "A Sports",
     "Url": "https://bighra.crik.live/Channels/a-sports.json",
-    "ImageUrl": "https://assets.crik.live/Channels/a-sports.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/a-sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "A Sports",
@@ -54,39 +54,20 @@
 "events": [ 
             
 {
-"Name": "PAK vs NZ",
-"Url": "https://bighra.crik.live/Events/pak-nz.json",
-"ImageUrl": "https://assets.crik.live/Events/pak-nz.webp",
-"startDate": "2023-04-27",
+"Name": "ICC Mens Cricket World Cup Qualifier",
+"Url": "https://bighra.crik.live/Events/icc.json",
+"ImageUrl": "https://asset.crik.live/Events/icc_qualifier.webp",
+"startDate": "2023-06-09",
 "startTime": "00:01",
-"EventName": "PAK vs NZ",
-"endDate": "2023-04-28",
-"endTime": "05:59"
+"EventName": "World Cup Qualifier",
+"endDate": "2023-07-09",
+"endTime": "23:59"
 },
-{
-"Name": "PAK vs NZ",
-"Url": "https://bighra.crik.live/Events/pak-nz.json",
-"ImageUrl": "https://assets.crik.live/Events/pak-nz.webp",
-"startDate": "2023-04-29",
-"startTime": "00:01",
-"EventName": "PAK vs NZ",
-"endDate": "2023-04-30",
-"endTime": "05:59"
-},
-{
-"Name": "PAK vs NZ",
-"Url": "https://bighra.crik.live/Events/pak-nz.json",
-"ImageUrl": "https://assets.crik.live/Events/pak-nz.webp",
-"startDate": "2023-05-03",
-"startTime": "00:01",
-"EventName": "PAK vs NZ",
-"endDate": "2023-05-04",
-"endTime": "05:59"
-},
+
 {
     "Name": "PTV Sports",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/PTV-Sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "PTV Sports",
@@ -101,39 +82,20 @@
          "events":
              [
 {
-"Name": "PAK vs NZ",
-"Url": "https://bighra.crik.live/Events/pak-nz.json",
-"ImageUrl": "https://assets.crik.live/Events/pak-nz.webp",
-"startDate": "2023-04-27",
+"Name": "ICC Mens Cricket World Cup Qualifier",
+"Url": "https://bighra.crik.live/Events/icc.json",
+"ImageUrl": "https://asset.crik.live/Events/icc_qualifier.webp",
+"startDate": "2023-06-09",
 "startTime": "00:01",
-"EventName": "PAK vs NZ",
-"endDate": "2023-04-28",
-"endTime": "05:59"
+"EventName": "World Cup Qualifier",
+"endDate": "2023-07-09",
+"endTime": "23:59"
 },
-{
-"Name": "PAK vs NZ",
-"Url": "https://bighra.crik.live/Events/pak-nz.json",
-"ImageUrl": "https://assets.crik.live/Events/pak-nz.webp",
-"startDate": "2023-04-29",
-"startTime": "00:01",
-"EventName": "PAK vs NZ",
-"endDate": "2023-04-30",
-"endTime": "05:59"
-},
-{
-"Name": "PAK vs NZ",
-"Url": "https://bighra.crik.live/Events/pak-nz.json",
-"ImageUrl": "https://assets.crik.live/Events/pak-nz.webp",
-"startDate": "2023-05-03",
-"startTime": "00:01",
-"EventName": "PAK vs NZ",
-"endDate": "2023-05-04",
-"endTime": "05:59"
-},
+
 {
     "Name": "Ten Sports",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/Ten-Sports.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/Ten-Sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Ten Sports",
@@ -147,13 +109,13 @@
         { 
 "events": [
 {
-"Name": "CSK vs GT",
-"Url": "https://bighra.crik.live/Events/ipl.json",
-"ImageUrl": "https://assets.crik.live/Events/ipl/1.webp",
-"startDate": "2023-05-28",
+"Name": "ICC Mens Cricket World Cup Qualifier",
+"Url": "https://bighra.crik.live/Events/icc.json",
+"ImageUrl": "https://asset.crik.live/Events/icc_qualifier.webp",
+"startDate": "2023-06-09",
 "startTime": "00:01",
-"EventName": "IPL 2023",
-"endDate": "2023-05-28",
+"EventName": "World Cup Qualifier",
+"endDate": "2023-07-09",
 "endTime": "23:59"
 },
 
@@ -161,7 +123,7 @@
 {
     "Name": "Star Sports",
     "Url": "https://bighra.crik.live/Channels/star.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/star.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Star Sports",
@@ -171,7 +133,7 @@
     {
     "Name": "Star Sports Hindi",
     "Url": "https://bighra.crik.live/Channels/star.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star-hindi.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/star-hindi.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Star Sports Hindi",

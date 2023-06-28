@@ -4,7 +4,7 @@
 {
     "Name": "Cricket",
     "Url": "https://bighra.crik.live/Events/test.json",
-    "ImageUrl": "https://assets.crik.live/cricket.jpg",
+    "ImageUrl": "https://asset.crik.live/cricket.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Cricket",

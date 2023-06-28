@@ -3,7 +3,7 @@
 "events": [{
 "Name": "INDIA vs AUSTRALIA",
 "Url": "https://bighra.crik.live/Events/ind.json",
-"ImageUrl": "https://assets.crik.live/Events/ind-aus.jpg",
+"ImageUrl": "https://asset.crik.live/Events/ind-aus.jpg",
 "startDate": "2022-9-20",
 "startTime": "12:00",
 "EventName": "IND vs AUS",
@@ -13,7 +13,7 @@
 {
 "Name": "India vs Austraila",
 "Url": "https://bighra.crik.live/Events/ind.json",
-"ImageUrl": "https://assets.crik.live/Events/ind-aus.jpg",
+"ImageUrl": "https://asset.crik.live/Events/ind-aus.jpg",
 "startDate": "2022-09-20",
 "startTime": "00:01",
 "EventName": "IND vs AUS",
@@ -23,7 +23,7 @@
 {
 "Name": "INDIA vs AUSTRALIA",
 "Url": "https://bighra.crik.live/Events/ind.json",
-"ImageUrl": "https://assets.crik.live/Events/ind-aus.jpg",
+"ImageUrl": "https://asset.crik.live/Events/ind-aus.jpg",
 "startDate": "2022-9-23",
 "startTime": "12:00",
 "EventName": "IND vs AUS",
@@ -33,7 +33,7 @@
 {
 "Name": "India vs Austraila",
 "Url": "https://bighra.crik.live/Events/ind.json",
-"ImageUrl": "https://assets.crik.live/Events/ind-aus.jpg",
+"ImageUrl": "https://asset.crik.live/Events/ind-aus.jpg",
 "startDate": "2022-09-23",
 "startTime": "00:01",
 "EventName": "IND vs AUS",
@@ -43,7 +43,7 @@
 {
 "Name": "INDIA vs AUSTRALIA",
 "Url": "https://bighra.crik.live/Events/ind.json",
-"ImageUrl": "https://assets.crik.live/Events/ind-aus.jpg",
+"ImageUrl": "https://asset.crik.live/Events/ind-aus.jpg",
 "startDate": "2022-9-25",
 "startTime": "12:00",
 "EventName": "IND vs AUS",
@@ -53,7 +53,7 @@
 {
 "Name": "India vs Austraila",
 "Url": "https://bighra.crik.live/Events/ind.json",
-"ImageUrl": "https://assets.crik.live/Events/ind-aus.jpg",
+"ImageUrl": "https://asset.crik.live/Events/ind-aus.jpg",
 "startDate": "2022-09-25",
 "startTime": "00:01",
 "EventName": "IND vs AUS",
@@ -63,7 +63,7 @@
 {
     "Name": "Star Sports",
     "Url": "https://bighra.crik.live/Channels/star.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/star.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Star Sports",
@@ -73,7 +73,7 @@
     {
     "Name": "Star Sports Hindi",
     "Url": "https://bighra.crik.live/Channels/star.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star-hindi.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/star-hindi.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Star Sports Hindi",
