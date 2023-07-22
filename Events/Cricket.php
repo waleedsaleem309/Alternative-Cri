@@ -9,7 +9,7 @@ include '../Channels/star-sports.php';
 include 'icc.php';
 $Cricket = '[
 {
-    "events" : [' . $ICC . $PTV . ','  . $TEN . ',' . $Star_Sports . ',' . $Sky . ',' . $Willow
+    "events" : [' . $ICC . $PTV . ','  . $TEN . ',' . $Star_Sports . ',' . $Sky . ','. $Super . ',' . $Willow
     .'],
     "title" : "Cricket"
     }

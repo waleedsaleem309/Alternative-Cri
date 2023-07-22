@@ -5,7 +5,7 @@ $Willow = '      {
     "ImageUrl": "https://assets.crik.live/Channels/willow.jpg",
     "startDate": "2022-1-17",
     "startTime": "00:01",
-    "EventName": "Willow",
+    "EventName": "Willow Cricket",
     "endDate": "2025-10-17",
     "endTime": "23:59"
       },

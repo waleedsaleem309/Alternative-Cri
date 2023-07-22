@@ -1,0 +1,65 @@
+{   
+"IPL" :[
+   {
+    "ChannelName" : "PTV Sports",
+    "ChannelUrl" : "https://bighra.crik.live/Channels.json",
+    "ImageUrl" : "https://assets.crik.live/Channels/white/ptv_sports.webp"
+  },
+   {
+    "ChannelName" : "Ten Sports",
+    "ChannelUrl" : "https://bighra.crik.live/Channels.json",
+    "ImageUrl" : "https://assets.crik.live/Channels/white/ten_sports.webp"
+  },
+   {
+    "ChannelName" : "A Sports",
+    "ChannelUrl" : "https://bighra.crik.live/Channels/a-sports.json",
+    "ImageUrl" : "https://assets.crik.live/Channels/white/a_sports.webp"
+  },
+   {
+    "ChannelName" : "Star Sports Hindi",
+    "ChannelUrl" : "https://bighra.crik.live/Channels/star.json",
+    "ImageUrl" : "https://assets.crik.live/Channels/white/star_1_hindi.webp"
+  },
+   {
+    "ChannelName" : "Star Sports",
+    "ChannelUrl" : "https://bighra.crik.live/Channels/star.json",
+    "ImageUrl" : "https://assets.crik.live/Channels/white/star_1.webp"
+  },
+   {
+    "ChannelName" : "Willow Cricket",
+    "ChannelUrl" : "https://bighra.crik.live/Channels.json",
+    "ImageUrl" : "https://assets.crik.live/Channels/white/willow.webp"
+  },
+   {
+    "ChannelName" : "Sky Sports Cricket",
+    "ChannelUrl" : "https://bighra.crik.live/Channels.json",
+    "ImageUrl" : "https://assets.crik.live/Channels/white/sky_cricket.webp"
+  },
+   {
+    "ChannelName" : "SuperSport Cricket",
+    "ChannelUrl" : "https://bighra.crik.live/Channels.json",
+    "ImageUrl" : "https://assets.crik.live/Channels/white/super_cricket.webp"
+  },
+   {
+    "ChannelName" : "Astro Cricket",
+    "ChannelUrl" : "https://bighra.crik.live/Channels.json",
+    "ImageUrl" : "https://assets.crik.live/Channels/white/astro_cricket.webp"
+  },
+   {
+    "ChannelName" : "Willow Extra",
+    "ChannelUrl" : "https://bighra.crik.live/Channels.json",
+    "ImageUrl" : "https://assets.crik.live/Channels/white/willow_extra.webp"
+  },
+   {
+    "ChannelName" : "SuperSport Grandstand",
+    "ChannelUrl" : "https://bighra.crik.live/Channels.json",
+    "ImageUrl" : "https://assets.crik.live/Channels/white/super_grandstand.webp"
+  },
+   {
+    "ChannelName" : "Sky Sports Main Event",
+    "ChannelUrl" : "https://bighra.crik.live/Channels.json",
+    "ImageUrl" : "https://assets.crik.live/Channels/white/sky_main.webp"
+  }
+ 
+]
+}

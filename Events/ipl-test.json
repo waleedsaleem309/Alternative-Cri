@@ -3,7 +3,7 @@
 {
     "Name": "Star Sports",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://asset.crik.live/Channels/star.jpg",
+    "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
     "startDate": "2022-1-1",
     "startTime": "00:01",
     "EventName": "Star Sports",
@@ -13,7 +13,7 @@
     {
     "Name": "Star Sports Hindi",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://asset.crik.live/Channels/star-hindi.jpg",
+    "ImageUrl": "https://assets.crik.live/Channels/star-hindi.jpg",
     "startDate": "2022-1-1",
     "startTime": "00:01",
     "EventName": "Star Sports Hindi",
@@ -22,7 +22,7 @@
     }, {
     "Name": "Star Sports Hindi",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://asset.crik.live/Channels/star-hindi.jpg",
+    "ImageUrl": "https://assets.crik.live/Channels/star-hindi.jpg",
     "startDate": "2022-1-1",
     "startTime": "00:01",
     "EventName": "Star Sports Hindi",

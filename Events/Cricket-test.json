@@ -4,11 +4,13 @@
 {
     "Name": "Cricket",
     "Url": "https://bighra.crik.live/Events/test.json",
-    "ImageUrl": "https://asset.crik.live/cricket.jpg",
+    "ChannelUrl" : "https://iframe.crik.live/sky-cricket/a.html",
+    "ImageUrl": "https://assets.crik.live/cricket.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Cricket",
     "endDate": "2050-12-29",
+    "Browser" : "1",
     "endTime": "12:00"
     }
     ],

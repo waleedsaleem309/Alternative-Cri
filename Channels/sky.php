@@ -5,7 +5,7 @@ $Sky = '      {
     "ImageUrl": "https://assets.crik.live/Channels/sky-cricket.jpg",
     "startDate": "2022-1-17",
     "startTime": "00:01",
-    "EventName": "Sky Cricket",
+    "EventName": "Sky Sports Cricket",
     "endDate": "2025-10-17",
     "endTime": "23:59"
       }';
