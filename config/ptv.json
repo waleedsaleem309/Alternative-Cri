@@ -1,7 +1,7 @@
 {"LV" : "33",
 "APK" : "https://apps.crik.live/ptv.apk", 
 "Store" : "https://appgallery.huawei.com/app/C104801089",
-"Url" : "https://b.crik.live/Channels/ptv.json",
+"Url" : "https://crik.live/Channels/ptv.json",
 "Samsung" : "https://samsung.com",
 "ADS-27" : "true",
 "ADS-28" : "true",
@@ -11,5 +11,6 @@
 "ADS-32" : "true",
 "ADS-33" : "true",
 "ADS-34" : "true",
+"ADS-35" : "true",
 "Library" : "6",
 "Cancelable" : "false"}
