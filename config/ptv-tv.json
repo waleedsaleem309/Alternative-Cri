@@ -1,10 +1,13 @@
-{"LV" : "2",
+{"LV" : "8",
 "APK" : "https://apps.crik.live/ptv-tv.apk", 
 "Url" : "https://crik.live/Channels/ptv.json",
 "Store" : "https://play.google.com/store/apps/details?id=com.abrish.ptvsports.cricket.tv",
 "Library" : "6",
+"Layout" : "test",
 "ADS-5" : "true",
 "Layout-5" : "1",
-"Layout_6" : "2",
-"Layout_7" : "2",
+"Layout_6" : "1",
+"Layout_7" : "1",
+"Layout_8" : "1",
+
 "Cancelable" : "true"}
