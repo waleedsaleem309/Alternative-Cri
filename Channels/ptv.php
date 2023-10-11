@@ -1,13 +1,12 @@
 <?php
 include '../Events/worldcup.php';
-include '../Events/icc.php';
 
 
 $json = 'ptv.json';
 $PTV = '{
     "Name": "PTV Sports",
-    "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "Url": "https://bighra.crik.live/Channels/ptv-sports.json",
+    "ImageUrl": "https://asset.crik.live/Channels/PTV-Sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "PTV Sports",
@@ -17,7 +16,7 @@ $PTV = '{
     $PTV1 = '[
     { 
 "events": [ 
-            '. $ICC . $PTV .   '
+            '. $World . $PTV .   '
     ],
     "title": "PTV Sports"
     }

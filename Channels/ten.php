@@ -1,12 +1,12 @@
 <?php
 include '../Events/worldcup.php';
-include '../Events/icc.php';
+
 
 $json = 'ten.json';
 $TEN = '{
     "Name": "Ten Sports",
-    "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/Ten-Sports.jpg",
+    "Url": "https://bighra.crik.live/Channels/ten-sports.json",
+    "ImageUrl": "https://asset.crik.live/Channels/Ten-Sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Ten Sports",
@@ -19,7 +19,7 @@ $TEN = '{
       { 
          "events":
              ['
-        . $ICC . $TEN .   '
+              .$World   . $TEN .   '
     ],
     "title": "Ten Sports"
   }

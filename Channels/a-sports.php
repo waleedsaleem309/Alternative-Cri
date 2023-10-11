@@ -1,11 +1,11 @@
 <?php
 $json = 'a-sports.json';
-include '../Events/icc.php';
+include '../Events/worldcup.php';
 $A = '
 {
     "Name": "A Sports",
     "Url": "https://bighra.crik.live/Channels/a-sports.json",
-    "ImageUrl": "https://assets.crik.live/Channels/a-sports.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/a-sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "A Sports",
@@ -14,7 +14,7 @@ $A = '
     }';
     $A1 = '[
     { 
-"events": [ '.$ICC . $A  .  '
+"events": [ '.$World . $A  .  '
     ],
     "title": "A Sports"
     }

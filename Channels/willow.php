@@ -2,7 +2,7 @@
 $Willow = '      {
     "Name": "Willow Cricket",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/willow.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/willow.jpg",
     "startDate": "2022-1-17",
     "startTime": "00:01",
     "EventName": "Willow Cricket",
@@ -12,7 +12,7 @@ $Willow = '      {
       {
     "Name": "Willow Xtra",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/willow-extra.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/willow-extra.jpg",
     "startDate": "2022-1-17",
     "startTime": "00:01",
     "EventName": "Willow Extra",

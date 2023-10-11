@@ -1,7 +1,10 @@
-{"LV" : "1",
+{"LV" : "4",
 "APK" : "https://apps.crik.live/yallahshoot.apk", 
-"Store" : "https://appgallery.huawei.com/app/C104801089",
+"Store" : "https://appgallery.huawei.com/app/C108778577",
 "Samsung" : "https://samsung.com",
-"ADS-1" : "false",
+"ADS-1" : "true",
+"ADS-2" : "true",
+"ADS-3" : "true",
+"ADS-4" : "true",
 "Library" : "6",
 "Cancelable" : "true"}

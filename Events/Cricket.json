@@ -1,21 +1,131 @@
 [
 {
     "events" : [
-{
-"Name": "ICC Mens Cricket World Cup Qualifier",
-"Url": "https://bighra.crik.live/Events/icc.json",
-"ImageUrl": "https://assets.crik.live/Events/icc_qualifier.webp",
-"startDate": "2023-06-09",
-"startTime": "00:01",
-"EventName": "World Cup Qualifier",
-"endDate": "2023-07-09",
-"endTime": "23:59"
-},
-
-{
+          {
+    "Name": "England vs Bangladesh",
+    "Url": "https://bighra.crik.live/Events/world-cup.json",
+    "ImageUrl": "https://asset.crik.live/Events/world-cup/7.webp",
+    "startDate": "2023-10-10",
+    "startTime": "00:01",
+    "EventName": "World Cup",
+    "endDate": "2023-10-10",
+    "endTime": "23:00"
+      },
+           {
+    "Name": "Pakistan vs Sri Lanka",
+    "Url": "https://bighra.crik.live/Events/world-cup.json",
+    "ImageUrl": "https://asset.crik.live/Events/world-cup/8.webp",
+    "startDate": "2023-10-10",
+    "startTime": "00:01",
+    "EventName": "World Cup",
+    "endDate": "2023-10-10",
+    "endTime": "23:00"
+      },
+            {
+    "Name": "India vs Afghanistan",
+    "Url": "https://bighra.crik.live/Events/world-cup.json",
+    "ImageUrl": "https://asset.crik.live/Events/world-cup/9.webp",
+    "startDate": "2023-10-11",
+    "startTime": "00:01",
+    "EventName": "World Cup",
+    "endDate": "2023-10-11",
+    "endTime": "23:00"
+      },
+            {
+    "Name": "Australia vs South Africa",
+    "Url": "https://bighra.crik.live/Events/world-cup.json",
+    "ImageUrl": "https://asset.crik.live/Events/world-cup/10.webp",
+    "startDate": "2023-10-12",
+    "startTime": "00:01",
+    "EventName": "World Cup",
+    "endDate": "2023-10-12",
+    "endTime": "23:00"
+      },
+            {
+    "Name": "New Zealand vs Bangladesh",
+    "Url": "https://bighra.crik.live/Events/world-cup.json",
+    "ImageUrl": "https://asset.crik.live/Events/world-cup/11.webp",
+    "startDate": "2023-10-13",
+    "startTime": "00:01",
+    "EventName": "World Cup",
+    "endDate": "2023-10-13",
+    "endTime": "23:00"
+      },
+            {
+    "Name": "India vs Pakistan",
+    "Url": "https://bighra.crik.live/Events/world-cup.json",
+    "ImageUrl": "https://asset.crik.live/Events/world-cup/12.webp",
+    "startDate": "2023-10-14",
+    "startTime": "00:01",
+    "EventName": "World Cup",
+    "endDate": "2023-10-14",
+    "endTime": "23:00"
+      },
+            {
+    "Name": "England vs Afghanistan",
+    "Url": "https://bighra.crik.live/Events/world-cup.json",
+    "ImageUrl": "https://asset.crik.live/Events/world-cup/13.webp",
+    "startDate": "2023-10-15",
+    "startTime": "00:01",
+    "EventName": "World Cup",
+    "endDate": "2023-10-15",
+    "endTime": "23:00"
+      },
+            {
+    "Name": "Australia vs Sri Lanka",
+    "Url": "https://bighra.crik.live/Events/world-cup.json",
+    "ImageUrl": "https://asset.crik.live/Events/world-cup/14.webp",
+    "startDate": "2023-10-16",
+    "startTime": "00:01",
+    "EventName": "World Cup",
+    "endDate": "2023-10-16",
+    "endTime": "23:00"
+      },
+            {
+    "Name": "South Africa vs Netherlands",
+    "Url": "https://bighra.crik.live/Events/world-cup.json",
+    "ImageUrl": "https://asset.crik.live/Cricket/icc_world_cup.webp",
+    "startDate": "2023-10-17",
+    "startTime": "00:01",
+    "EventName": "World Cup",
+    "endDate": "2023-10-17",
+    "endTime": "23:00"
+      },
+            {
+    "Name": "New Zealand vs Afghanistan",
+    "Url": "https://bighra.crik.live/Events/world-cup.json",
+    "ImageUrl": "https://asset.crik.live/Events/world-cup/16.webp",
+    "startDate": "2023-10-18",
+    "startTime": "00:01",
+    "EventName": "World Cup",
+    "endDate": "2023-10-18",
+    "endTime": "23:00"
+      },
+            {
+    "Name": "India vs Bangladesh",
+    "Url": "https://bighra.crik.live/Events/world-cup.json",
+    "ImageUrl": "https://asset.crik.live/Events/world-cup/17.webp",
+    "startDate": "2023-10-19",
+    "startTime": "00:01",
+    "EventName": "World Cup",
+    "endDate": "2023-10-19",
+    "endTime": "23:00"
+      },
+            {
+    "Name": "Australia vs Pakistan",
+    "Url": "https://bighra.crik.live/Events/world-cup.json",
+    "ImageUrl": "https://asset.crik.live/Events/world-cup/18.webp",
+    "startDate": "2023-10-20",
+    "startTime": "00:01",
+    "EventName": "World Cup",
+    "endDate": "2023-10-20",
+    "endTime": "23:00"
+      },
+      
+      {
     "Name": "PTV Sports",
-    "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "Url": "https://bighra.crik.live/Channels/ptv-sports.json",
+    "ImageUrl": "https://asset.crik.live/Channels/PTV-Sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "PTV Sports",
@@ -23,37 +133,37 @@
     "endTime": "12:00"
     },{
     "Name": "Ten Sports",
-    "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/Ten-Sports.jpg",
+    "Url": "https://bighra.crik.live/Channels/ten-sports.json",
+    "ImageUrl": "https://asset.crik.live/Channels/Ten-Sports.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Ten Sports",
     "endDate": "2050-12-19",
     "endTime": "12:00"
     },
-{
-    "Name": "Star Sports",
-    "Url": "https://bighra.crik.live/Channels/star.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
-    "startDate": "2022-1-1",
-    "startTime": "12:00",
-    "EventName": "Star Sports",
-    "endDate": "2050-12-29",
-    "endTime": "12:00"
-    },
-    {
+   {
     "Name": "Star Sports Hindi",
     "Url": "https://bighra.crik.live/Channels/star.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star-hindi.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/star-hindi.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Star Sports Hindi",
     "endDate": "2050-12-29",
     "endTime": "12:00"
-    },      {
+    },{
+    "Name": "Star Sports",
+    "Url": "https://bighra.crik.live/Channels/star.json",
+    "ImageUrl": "https://asset.crik.live/Channels/star.jpg",
+    "startDate": "2022-1-1",
+    "startTime": "12:00",
+    "EventName": "Star Sports",
+    "endDate": "2050-12-29",
+    "endTime": "12:00"
+    }
+ ,      {
     "Name": "Sky Sports Cricket",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/sky-cricket.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/sky-cricket.jpg",
     "startDate": "2022-1-17",
     "startTime": "00:01",
     "EventName": "Sky Sports Cricket",
@@ -62,7 +172,7 @@
       },      {
     "Name": "Super Cricket",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/super-cricket.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/super-cricket.jpg",
     "startDate": "2022-1-17",
     "startTime": "00:01",
     "EventName": "SuperSport Cricket",
@@ -71,7 +181,7 @@
       },      {
     "Name": "Willow Cricket",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/willow.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/willow.jpg",
     "startDate": "2022-1-17",
     "startTime": "00:01",
     "EventName": "Willow Cricket",
@@ -81,7 +191,7 @@
       {
     "Name": "Willow Xtra",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/willow-extra.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/willow-extra.jpg",
     "startDate": "2022-1-17",
     "startTime": "00:01",
     "EventName": "Willow Extra",

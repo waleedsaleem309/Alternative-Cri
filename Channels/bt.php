@@ -5,7 +5,7 @@ $BT_Sports = '{
 {
     "Name": "BT Sports 1",
     "Url": "https://bighra.crik.live/Channels/bt-sports.json",
-    "ImageUrl": "https://assets.crik.live/Channels/bt-1.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/bt-1.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "BT Sports 1",
@@ -15,7 +15,7 @@ $BT_Sports = '{
     {
     "Name": "BT Sports 2",
     "Url": "https://bighra.crik.live/Channels/bt-sports.json",
-    "ImageUrl": "https://assets.crik.live/Channels/bt-2.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/bt-2.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "BT Sports 2",
@@ -25,7 +25,7 @@ $BT_Sports = '{
     {
     "Name": "BT Sports 3",
     "Url": "https://bighra.crik.live/Channels/bt-sports.json",
-    "ImageUrl": "https://assets.crik.live/Channels/bt-3.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/bt-3.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "BT Sports 3",
@@ -40,7 +40,7 @@ $BT_Sports = '{
 {
     "Name": "BT Sports 1",
     "Url": "https://bighra.crik.live/Channels/bt-sports.json",
-    "ImageUrl": "https://assets.crik.live/Channels/bt-1.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/bt-1.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "BT Sports 1",
@@ -50,7 +50,7 @@ $BT_Sports = '{
     {
     "Name": "BT Sports 2",
     "Url": "https://bighra.crik.live/Channels/bt-sports.json",
-    "ImageUrl": "https://assets.crik.live/Channels/bt-2.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/bt-2.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "BT Sports 2",
@@ -60,7 +60,7 @@ $BT_Sports = '{
     {
     "Name": "BT Sports 3",
     "Url": "https://bighra.crik.live/Channels/bt-sports.json",
-    "ImageUrl": "https://assets.crik.live/Channels/bt-3.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/bt-3.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "BT Sports 3",

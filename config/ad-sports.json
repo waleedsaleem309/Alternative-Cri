@@ -1,6 +1,6 @@
 {"LV" : "10",
 "APK" : "https://apps.crik.live/ad-sports.apk", 
-"Store" : "https://appgallery.huawei.com/app/C104801089",
+"Store" : "https://appgallery.huawei.com/app/C105389391",
 "Samsung" : "https://samsung.com",
 "ADS-2" : "true",
 "ADS-3" : "true",
@@ -11,4 +11,5 @@
 "ADS-8" : "true",
 "ADS-9" : "true",
 "ADS-10" : "true",
+"ADS-11" : "false",
 "Cancelable" : "true"}

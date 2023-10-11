@@ -1,10 +1,11 @@
 
 <?php
+include 'asia.php';
 $IPL0 = '
 {
 "Name": "CSK vs GT",
 "Url": "https://bighra.crik.live/Events/ipl.json",
-"ImageUrl": "https://assets.crik.live/Events/ipl/1.webp",
+"ImageUrl": "https://asset.crik.live/Events/ipl/1.webp",
 "startDate": "2023-05-28",
 "startTime": "00:01",
 "EventName": "IPL 2023",
@@ -14,11 +15,11 @@ $IPL0 = '
 
 ';
  $IPL =  '{    
-    "events": ['.$IPL0.'
+    "events": ['.$ASIA .$IPL0.'
 {
     "Name": "Star Sports",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/star.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Star Sports",
@@ -28,7 +29,7 @@ $IPL0 = '
     {
     "Name": "Star Sports Hindi",
     "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star-hindi.jpg",
+    "ImageUrl": "https://asset.crik.live/Channels/star-hindi.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Star Sports Hindi",

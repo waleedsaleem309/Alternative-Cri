@@ -1,4 +1,4 @@
-{"LV" : "9",
+{"LV" : "10",
 "APK" : "https://apps.crik.live/football.apk",
 "Store" : "https://appgallery.huawei.com/app/C107791485", 
 "Layout" : "1",
@@ -6,8 +6,12 @@
 "ADS-7" : "true",
 "ADS-8" : "true",
 "ADS-9" : "true",
+"ADS-10" : "true",
+"ADS-11" : "false",
 "Layout-8" : "1",
 "Layout-9" : "1",
+"Layout-10" : "1",
+"Layout-11" : "2",
 "Library" : "6",
 "Browser" : "2",
 "Cancelable" : "true"}

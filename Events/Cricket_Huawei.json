@@ -2,22 +2,22 @@
 
 "Cricket": [
     {
-    "EventImage" : "https://assets.crik.live/Events/psl.jpg",
+    "EventImage" : "https://asset.crik.live/Events/psl.jpg",
     "EventName" : "PSL 7",
     "Url" : "https://bighra.crik.live/Events/psl.json"
   },
   {
-    "EventImage" : "https://assets.crik.live/Channels/PTV-Sports.jpg",
+    "EventImage" : "https://asset.crik.live/Channels/PTV-Sports.jpg",
     "EventName" : "PTV Sports",
     "Url" : "https://bighra.crik.live/Channels.json"
   },
 {
-    "EventImage" : "https://assets.crik.live/Channels/Ten-Sports.jpg",
+    "EventImage" : "https://asset.crik.live/Channels/Ten-Sports.jpg",
     "EventName" : "Ten Sports",
   "Url" : "https://bighra.crik.live/Channels.json"
   },
   {
-    "EventImage" : "https://assets.crik.live/Channels/a-sports.jpg",
+    "EventImage" : "https://asset.crik.live/Channels/a-sports.jpg",
     "EventName" : "A Sports",
   "Url" : "https://bighra.crik.live/Channels/a-sports.json"
   }
@@ -26,7 +26,7 @@
   "Star": [
 
     {
-    "EventImage" : "https://assets.crik.live/Events/psl.jpg",
+    "EventImage" : "https://asset.crik.live/Events/psl.jpg",
     "EventName" : "PSL 7",
     "Url" : "https://bighra.crik.live/Events/psl.json"
   },

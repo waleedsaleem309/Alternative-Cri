@@ -1,7 +1,7 @@
-{"LV" : "29",
+{"LV" : "30",
 "APK" : "https://apps.crik.live/ipl.apk", 
 "Store" : "https://appgallery.huawei.com/app/C104763653",
-"Url": "https://crik.live/Events/ipl.json",
+"Url": "https://b.crik.live/Events/ipl.json",
 "ADS-20" : "true",
 "ADS-21" : "true",
 "ADS-22" : "true",
@@ -13,5 +13,6 @@
 "ADS-28" : "true",
 "ADS-29" : "true",
 "ADS-30" : "true",
-"Library" : "6",
+"ADS-31" : "true",
+"Library" : "7",
 "Cancelable" : "true"}

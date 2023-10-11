@@ -1,15 +1,13 @@
 <?php
 $json = 't20.json';
-include 'worldcup.php';
-include 't20-wo.php';
-include 'icc.php';
+include 'asia.php';
 $T20 = '{ 
 "events": [ 
 
 {
     "Name": "Star Sports",
-    "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
+    "Url": "https://bighra.crik.live/Channels/star.json",
+    "ImageUrl": "https://asset.crik.live/Channels/star.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Star Sports",
@@ -18,8 +16,8 @@ $T20 = '{
     },
     {
     "Name": "Star Sports Hindi",
-    "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star-hindi.jpg",
+    "Url": "https://bighra.crik.live/Channels/star.json",
+    "ImageUrl": "https://asset.crik.live/Channels/star-hindi.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Star Sports Hindi",
@@ -30,10 +28,10 @@ $T20 = '{
     "title": "Star Sports"
     }';
         $T201 = '{ 
-"events": [ ' .$ICC . $World . ' {
+"events": [ ' .$ASIA . ' {
     "Name": "Star Sports",
-    "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star.jpg",
+    "Url": "https://bighra.crik.live/Channels/star.json",
+    "ImageUrl": "https://asset.crik.live/Channels/star.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Star Sports",
@@ -42,8 +40,8 @@ $T20 = '{
     },
     {
     "Name": "Star Sports Hindi",
-    "Url": "https://bighra.crik.live/Channels.json",
-    "ImageUrl": "https://assets.crik.live/Channels/star-hindi.jpg",
+    "Url": "https://bighra.crik.live/Channels/star.json",
+    "ImageUrl": "https://asset.crik.live/Channels/star-hindi.jpg",
     "startDate": "2022-1-1",
     "startTime": "12:00",
     "EventName": "Star Sports Hindi",
